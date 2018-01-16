@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933749804981",
+    "firebase_url": "https://auth-project-8abff.firebaseio.com",
+    "project_id": "auth-project-8abff",
+    "storage_bucket": "auth-project-8abff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933749804981:android:f0995b6b7b7ea9a8",
+        "android_client_info": {
+          "package_name": "zimmermann.larissa.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933749804981-rfvegs5rc2b9hl9veha6otp0dvkpudar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zimmermann.larissa.authapp",
+            "certificate_hash": "1b324f49f41501b33a97253da81a22f60f6db20d"
+          }
+        },
+        {
+          "client_id": "933749804981-j4hdtt640c2ev1nifl4pseldi1qva64c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjJMF1jxYcI76j8es83K_NS6eL3BcVt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933749804981-j4hdtt640c2ev1nifl4pseldi1qva64c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
